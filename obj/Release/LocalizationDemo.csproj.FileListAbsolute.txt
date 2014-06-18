@@ -1,0 +1,5 @@
+C:\websites\dnndev.me\bin\LocalizationDemo.dll
+C:\websites\dnndev.me\bin\LocalizationDemo.pdb
+C:\websites\dnndev.me\DesktopModules\LocalizationDemo\obj\Release\LocalizationDemo.dll
+C:\websites\dnndev.me\DesktopModules\LocalizationDemo\obj\Release\LocalizationDemo.pdb
+C:\websites\dnndev.me\DesktopModules\LocalizationDemo\obj\Release\LocalizationDemo.csprojResolveAssemblyReference.cache
